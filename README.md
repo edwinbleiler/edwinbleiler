@@ -17,7 +17,7 @@ End to end NBA machine learning pipeline that:
 - Runs on an automated schedule using GitHub Actions
 
 **Repo:**  
-👉 [NBA Player Projection System](https://github.com/edwinbleiler/<your-nba-repo-name>)
+👉 [NBA Player Projection System](https://github.com/edwinbleiler/edwinbleiler-nba-projection-system)
 
 Replace `<your-nba-repo-name>` with the actual repo path. For example:  
 `https://github.com/edwinbleiler/nba-player-projection-system`
